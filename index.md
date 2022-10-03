@@ -1,7 +1,7 @@
 # **Eric's User Page**
 
 ![picture of me](IV_02475-2.jpg)
-![picture of my cat](IMG_2904.jpg)
+![picture of my cat](uni.png)
 
 ### Table of Contents
 - [**Eric's User Page**](#erics-user-page)
